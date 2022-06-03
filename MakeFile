@@ -1,0 +1,2 @@
+all:
+	gcc -g floatcreate.c floatprint.c floatsum.c floatvectorproiz.c floatpr.c freevector.c intcreate.c intprint.c intsum.c intvectorproz.c intpr.c Untitled-1.c -o hello
